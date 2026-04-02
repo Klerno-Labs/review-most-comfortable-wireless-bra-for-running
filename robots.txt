@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://klerno-labs.github.io/review-most-comfortable-wireless-bra-for-running/sitemap.xml
